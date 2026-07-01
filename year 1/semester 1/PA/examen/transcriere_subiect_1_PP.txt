@@ -1,0 +1,14 @@
+1. Instructiunea switch. Descriere
+2. Instructiuni repetitive. Descriere, diferente.
+3. Sa se scrie un program (c sau c++) pentru urmatoarea problema:
+Se citeste un numar intreg k de la tastatura, apoi se citeste un sir de k numere intregi de la tastaura.
+a. sa se determine cate numere din sirul respectiv sunt mai mici decat k
+b. sa se determine cate numere sunt pare si cate numere sunt impare.
+c. sa se creeze o lista simplu inlantuita formata numai din numerele divizibile cu 3 din sirul respectiv
+4. Sa se scrie un program pentru urmatoarea problema:
+Se citeste un text dintr-un fisier.
+a. Sa se determine cate cuvinte incep cu litera mare
+b. Sa se determine cate numere sunt in text (un numar este o succesiune de cifre)
+c. Sa se determine cate litere mari, mici, si cifre sunt in text.
+
+Nota: pentru problemele 3 si 4 descrieti in cuvinte ideea principala a algoritmului folosit (un pseudocod) si apoi scrieti implementarea; comentati cat mai mult din cod pentru a se intelege exact.

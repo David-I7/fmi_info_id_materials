@@ -1,0 +1,5 @@
+1. Instructiuni repetive, detaliati 2
+2) Se citește un șir de la tastatura până se întâlnește '.'
+i) Să se copieze într-un fișier, dar fără semne de punctuație;
+ii) Câte litere mari, mici, cifre sunt în fișier?
+iii) Să se înlocuiască în fișier fiecare consoană cu vocala cea mai apropiată. Vocalele sunt A, E, I, O, U.
