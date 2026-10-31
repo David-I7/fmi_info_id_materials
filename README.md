@@ -30,7 +30,7 @@
 | I        | [Algoritmi Fundamentali (AF)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201)                       | ?                  | ?                  | 5       |
 | I        | [Sisteme De Gestiune A Bazelor De Date (SGBD)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201/SGBD) | ?                  | ?                  | 5       |
 | I        | [Programare Functionala (PF)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201/PF)                    | ?                  | ?                  | 4       |
-| I        | [Sisteme De Operare (SO)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201)                           | ?                  | ?                  | 4       |
+| I        | [Sisteme De Operare (SO)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201/SO)                        | ?                  | ?                  | 4       |
 | I        | [Dezvoltarea Aplicatiilor Web (DAW)](https://github.com/David-I7/fmi_info_id_materials/tree/main/year%202/semester%201/DAW)            | ?                  | ?                  | 5       |
 | I        | Engleza                                                                                                                                | Easy               | Easy               | 2       |
 | --       | --------------------------------                                                                                                       | ----------         | ----------         | ----    |
